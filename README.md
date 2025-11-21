@@ -1,2 +1,3 @@
-# Materials
-for academic paper Creating maps by Artificial Intelligence – Case study on choropleth maps by ChatGPT-4
+# Supplmentary Materials
+for academic paper Creating Choropleth maps by Artificial Intelligence - Case study on ChatGPT-4
+
